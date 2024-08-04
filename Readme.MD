@@ -51,11 +51,6 @@ ai_suggest "list files in the current directory"
 
 Contributions are welcome! If you want to contribute to the project, please submit pull requests or report issues via the GitHub repository.
 
-## License
-
-`ai_suggest` is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 Thank you for using `ai_suggest`!
 If you have any questions or suggestions, feel free to open an issue on GitHub or contact me on Linkedin.
