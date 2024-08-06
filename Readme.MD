@@ -19,8 +19,8 @@
 Clone the GitHub repository or download the `client.py`, `install.sh`, and `requirements.txt` files manually.
 
 ```bash
-git clone https://github.com/your-username/ai_suggest.git
-cd ai_suggest
+git clone https://github.com/Mister-iks/ai_suggest_deployment.git
+cd ai_suggest_deployment
 ```
 
 ### Step 2: Run the Installation Script
@@ -53,4 +53,4 @@ Contributions are welcome! If you want to contribute to the project, please subm
 
 
 Thank you for using `ai_suggest`!
-If you have any questions or suggestions, feel free to open an issue on GitHub or contact me on Linkedin.
+If you have any questions or suggestions, feel free to open an issue on GitHub or contact me on <a href="https://www.linkedin.com/in/ibrahima-samb-dev" target="__blank">Linkedin</a>.
