@@ -22,6 +22,11 @@ Clone the GitHub repository or download the `client.py`, `install.sh`, and `requ
 git clone https://github.com/Mister-iks/ai_suggest_deployment.git
 cd ai_suggest_deployment
 ```
+---
+
+## Important Note
+
+NB: The API key included in the `client.py` file is intentionally left accessible to allow public testing. In a real-world scenario, each user should have their own API key. For the final version, the API key will be moved to a `.env` file for security reasons. 
 
 ### Step 2: Run the Installation Script
 
