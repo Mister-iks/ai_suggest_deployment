@@ -1,10 +1,16 @@
 #!/usr/bin/python3
+import os
+from dotenv import load_dotenv
 import requests
 import json
 import sys
 
+
+load_dotenv()
 API_URL = 'https://suggest.includes-ai.com/includes_suggest'
-API_KEY = 'bl3c79nGIDGp2CNwScU8oPNnSM5TZdetj0S9gpLQ2FuyYXhh7Y'
+
+# Access the API key
+API_KEY = os.getenv('API_KEY')
 
 def includes_suggest(command):
     headers = {'Content-Type': 'application/json', 'x-api-key': API_KEY}
