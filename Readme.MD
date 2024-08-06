@@ -53,4 +53,4 @@ Contributions are welcome! If you want to contribute to the project, please subm
 
 
 Thank you for using `ai_suggest`!
-If you have any questions or suggestions, feel free to open an issue on GitHub or contact me on Linkedin.
+If you have any questions or suggestions, feel free to open an issue on GitHub or contact me on <a href="https://www.linkedin.com/in/ibrahima-samb-dev" target="__blank">Linkedin</a>.
