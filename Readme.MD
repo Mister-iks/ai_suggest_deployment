@@ -1,6 +1,6 @@
 # ai_suggest
 
-`ai_suggest` is a command-line utility that provides command suggestions based on user queries. This project allows users to request Linux command suggestions from their terminal in a simple and quick manner.
+`ai_suggest` is a command line utility that provides command suggestions based on user queries. Through our API https://suggest.includes-ai.com/includes_suggest, this project allows users to request suggestions Linux commands from their terminal quickly and easily.
 
 ## Features
 
@@ -12,7 +12,7 @@
 - Python 3.6 or higher
 - Python `requests` module
 
-## Installation
+## Installation: Below are the steps to install the client script
 
 ### Step 1: Download the Files
 
